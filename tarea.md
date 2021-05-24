@@ -1,0 +1,2 @@
+El documento nos dio una pequeña introducción a las diferentes opciones y características que nos ofrece GitHub, aunque todas las características son útiles nos deja en claro que no todas utilizamos al principio en proyectos universitarios de aprendizaje, mas bien los deja para proyectos un poco más robustos y complejos.
+Aunque sigo teniendo dudas acerca de los posibles errores que pueden surgir al sincronizarse diferentes usuarios trabajando.
